@@ -5,7 +5,7 @@ O presente repositório contém a implementação do Trabalho Prático 1 de Algo
 
 ## Como Executar o Projeto Localmente
 
-Siga os passos abaixo para configurar e rodar a aplicação em sua máquina. Certifique-se de possuir acesso à internet durante todo o tempo de execução.
+Siga os passos abaixo para configurar e rodar a aplicação em sua máquina. **Certifique-se de possuir acesso à internet durante todo o tempo de execução.**
 
 
 ### Passo a Passo
@@ -14,7 +14,7 @@ Siga os passos abaixo para configurar e rodar a aplicação em sua máquina. Cer
    ```bash
    git clone https://github.com/davimesmo/TP-ALGORITMOS-2---Comida-di-Buteco.git
    ```
-2. **Instale as dependências:**
+2. **Instale as dependências (Opcional: Crie um .venv):**
     ```bash
     pip install -r requirements.txt
     ```
