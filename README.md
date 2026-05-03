@@ -5,7 +5,7 @@ O presente repositório contém a implementação do Trabalho Prático 1 de Algo
 
 ## Como Executar o Projeto Localmente
 
-Siga os passos abaixo para configurar e rodar a aplicação em sua máquina.
+Siga os passos abaixo para configurar e rodar a aplicação em sua máquina. Certifique-se de possuir acesso à internet durante todo o tempo de execução.
 
 
 ### Passo a Passo
